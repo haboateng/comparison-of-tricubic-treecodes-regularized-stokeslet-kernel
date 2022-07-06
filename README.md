@@ -32,7 +32,7 @@ Code for computing the regularized Stokeslet using three different tricubic tree
             Communications in Computer Physics, submitted, (2022)  
 		 
         (2) Boateng. H. A., Tlupova, S.: A treecode algorithm based on 
-            tricubic interpolation with global $\mathbb{C}^1$ continuity
+            tricubic interpolation
             Communications in Computer Physics, submitted, (2022)  
 	    
 Summary of files :
