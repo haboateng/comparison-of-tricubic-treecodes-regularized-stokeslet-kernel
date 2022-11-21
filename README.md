@@ -29,11 +29,11 @@ Code for computing the regularized Stokeslet using three different tricubic tree
          
          (1) Boateng. H. A., Tlupova, S.: The effect of smoothness on
          the accuracy of treecode approximations
-            Communications in Computer Physics, submitted, (2022)  
+            Communications in Computer Physics, (2022)  
 		 
         (2) Boateng. H. A., Tlupova, S.: A treecode algorithm based on 
             tricubic interpolation
-            submitted, (2022)  
+            Journal of Computational Mathematics and Data Science, (2022)  
 	    
 Summary of files :
 ------------------
